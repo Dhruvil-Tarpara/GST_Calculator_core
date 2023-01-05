@@ -1,16 +1,17 @@
-# gst
+# GST
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Flutter App Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td></td>
+     </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/121105558/210788904-a9555919-b09c-49ae-85a5-34c12835cea8.JPG" style="width:200px;"></td>
+    </tr>
